@@ -1,2 +1,3 @@
-# next-code-reviewer-64jm
-Automated issue comment bot repository
+# Next Code Reviewer 64Jm
+
+Automated issue comment bot repository.
